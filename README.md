@@ -1,4 +1,4 @@
-### Olá! Meu nome é Diego Dante 👋
+### Olá! Eu sou o Diego Dante 👋
 
 🌱 Estou estudando programação.
 <!--
