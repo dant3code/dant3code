@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Diego Dante 👋
 
-🌱 Estudando sobre programação.
+🌱 Estou estudando sobre programação.
 <!--
 **dant3code/dant3code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
